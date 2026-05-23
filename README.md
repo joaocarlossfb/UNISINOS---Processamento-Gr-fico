@@ -3,6 +3,8 @@
 Projeto desenvolvido para a disciplina de Processamento Gráfico (Unisinos).  
 Implementa um efeito de parallax scrolling com personagem móvel usando OpenGL moderno (core profile 4.1).
 
+ALUNO: João Carlos Fernandes Battassini
+
 ---
 
 ## Dependências
